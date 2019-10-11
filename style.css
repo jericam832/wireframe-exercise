@@ -50,10 +50,10 @@ main {
 }
 .bannerPic {
   width: 33%;
-  height: 310px;
+  height: 400px;
   display: inline-block;
 }
-h2 {
+h1 {
   font-weight: bold;
 }
 .bottom {
@@ -68,7 +68,6 @@ h2 {
 #right {
   float: right;
   width: 460;
-  
 }
 p {
   overflow: hidden;
